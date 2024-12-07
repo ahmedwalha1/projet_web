@@ -1,0 +1,213 @@
+[
+    {
+        "question": "What is the name of the galaxy that contains our Solar System?",
+        "choice1": "Andromeda Galaxy",
+        "choice2": "Milky Way",
+        "choice3": "Sombrero Galaxy",
+        "choice4": "Triangulum Galaxy",
+        "answer": 2
+    },
+    {
+        "question": "Which type of star is the Sun?",
+        "choice1": "Red Giant",
+        "choice2": "White Dwarf",
+        "choice3": "Main Sequence Star",
+        "choice4": "Neutron Star",
+        "answer": 3
+    },
+    {
+        "question": "What is the most abundant element in the universe?",
+        "choice1": "Helium",
+        "choice2": "Hydrogen",
+        "choice3": "Oxygen",
+        "choice4": "Carbon",
+        "answer": 2
+    },
+    {
+        "question": "Which planet has the strongest magnetic field in our Solar System?",
+        "choice1": "Earth",
+        "choice2": "Jupiter",
+        "choice3": "Saturn",
+        "choice4": "Neptune",
+        "answer": 2
+    },
+    {
+        "question": "Which type of star is the Sun?",
+        "choice1": "Red Giant",
+        "choice2": "White Dwarf",
+        "choice3": "Main Sequence Star",
+        "choice4": "Neutron Star",
+        "answer": 3
+    },
+    {
+        "question": "What is the term for a star's explosion at the end of its life cycle?",
+        "choice1": "Supernova",
+        "choice2": "Black Hole Formation",
+        "choice3": "Red Giant Expansion",
+        "choice4": "Starburst",
+        "answer": 1
+    },
+    {
+        "question": "What is the name of the first artificial satellite launched into space?",
+        "choice1": "Apollo 11",
+        "choice2": "Sputnik 1",
+        "choice3": "Explorer 1",
+        "choice4": "Luna 2",
+        "answer": 2
+    },
+    {
+        "question": "What phenomenon causes the apparent red color of some stars?",
+        "choice1": "High temperature",
+        "choice2": "Low temperature",
+        "choice3": "Redshift",
+        "choice4": "Doppler effect",
+        "answer": 2
+    },
+    {
+        "question": "What is the name of the black hole at the center of the Milky Way?",
+        "choice1": "Andromeda",
+        "choice2": "Sagittarius A*",
+        "choice3": "Cygnus X-1",
+        "choice4": "V404 Cygni",
+        "answer": 2
+    },
+    {
+        "question": "Which space telescope has provided the most detailed images of the universe?",
+        "choice1": "James Webb Telescope",
+        "choice2": "Kepler Telescope",
+        "choice3": "Hubble Space Telescope",
+        "choice4": "Spitzer Space Telescope",
+        "answer": 3
+    },
+    {
+        "question": "What type of celestial body is Pluto classified as?",
+        "choice1": "Planet",
+        "choice2": "Asteroid",
+        "choice3": "Dwarf Planet",
+        "choice4": "Comet",
+        "answer": 3
+    },
+    {
+        "question": "What is the term for a region in space where gravity is so strong that nothing, not even light, can escape?",
+        "choice1": "Black Hole",
+        "choice2": "Wormhole",
+        "choice3": "Supernova",
+        "choice4": "Event Horizon",
+        "answer": 1
+    },
+    {
+        "question": "Which planet in the Solar System has the most moons?",
+        "choice1": "Mars",
+        "choice2": "Saturn",
+        "choice3": "Jupiter",
+        "choice4": "Neptune",
+        "answer": 2
+    },
+    {
+        "question": "What is the name of the spacecraft that first landed humans on the Moon?",
+        "choice1": "Voyager 1",
+        "choice2": "Challenger",
+        "choice3": "Apollo 11",
+        "choice4": "Discovery",
+        "answer": 3
+    },
+    {
+        "question": "What is the most common type of galaxy in the universe?",
+        "choice1": "Elliptical",
+        "choice2": "Spiral",
+        "choice3": "Irregular",
+        "choice4": "Lenticular",
+        "answer": 1
+    },
+    {
+        "question": "What is the approximate age of the universe according to the Big Bang Theory?",
+        "choice1": "4.6 billion years",
+        "choice2": "10 billion years",
+        "choice3": "13.8 billion years",
+        "choice4": "20 billion years",
+        "answer": 3
+    },
+    {
+        "question": "What is the main component of a star like the Sun?",
+        "choice1": "Oxygen",
+        "choice2": "Helium",
+        "choice3": "Carbon",
+        "choice4": "Hydrogen",
+        "answer": 4
+    },
+    {
+        "question": "Which theory explains the origin of the universe?",
+        "choice1": "String Theory",
+        "choice2": "Big Bang Theory",
+        "choice3": "Quantum Theory",
+        "choice4": "Relativity Theory",
+        "answer": 2
+    },
+    {
+        "question": "What is the term for a rapidly spinning neutron star that emits beams of radiation?",
+        "choice1": "Pulsar",
+        "choice2": "Quasar",
+        "choice3": "Magnetar",
+        "choice4": "Supernova",
+        "answer": 1
+    },
+    {
+        "question": "What are the small icy bodies that form tails when they approach the Sun?",
+        "choice1": "Asteroids",
+        "choice2": "Meteors",
+        "choice3": "Comets",
+        "choice4": "Dwarf Planets",
+        "answer": 3
+    },
+    {
+        "question": "Which planet is often referred to as Earth's 'sister planet' due to its similar size?",
+        "choice1": "Mars",
+        "choice2": "Venus",
+        "choice3": "Mercury",
+        "choice4": "Neptune",
+        "answer": 2
+    },
+    {
+        "question": "What is the name of the region around a star where conditions might allow liquid water to exist?",
+        "choice1": "The Ice Belt",
+        "choice2": "The Green Zone",
+        "choice3": "The Habitable Zone",
+        "choice4": "The Life Belt",
+        "answer": 3
+    },
+    {
+        "question": "What do we call the effect where light from distant galaxies shifts toward the red end of the spectrum?",
+        "choice1": "Redshift",
+        "choice2": "Doppler Effect",
+        "choice3": "Blueshift",
+        "choice4": "Light Scattering",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest type of star known to exist?",
+        "choice1": "Supergiant",
+        "choice2": "Red Dwarf",
+        "choice3": "Neutron Star",
+        "choice4": "White Dwarf",
+        "answer": 1
+    },
+    {
+        "question": "What phenomenon is responsible for the bending of light around massive objects in space?",
+        "choice1": "Gravitational Lensing",
+        "choice2": "Doppler Effect",
+        "choice3": "Reflection",
+        "choice4": "Refraction",
+        "answer": 1
+    },
+    {
+        "question": "What is the second-largest planet in the Solar System?",
+        "choice1": "Earth",
+        "choice2": "Neptune",
+        "choice3": "Saturn",
+        "choice4": "Uranus",
+        "answer": 3
+    }
+]
+
+
+
